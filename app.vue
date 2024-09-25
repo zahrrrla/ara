@@ -70,16 +70,16 @@
       <section>
         <h2 class="text-2xl font-semibold text-blue-600 border-b-2 border-blue-600 pb-2">Contact</h2>
         <p class="mt-4 text-gray-700">
-          Email: <a href="mailto:johndoe@example.com" class="text-blue-600 hover:underline">johndoe@example.com</a><br>
-          Phone: <a href="tel:+123456789" class="text-blue-600 hover:underline">+123 456 789</a><br>
-          LinkedIn: <a href="https://linkedin.com/in/choiriatuzzahra" target="_blank" class="text-blue-600 hover:underline">linkedin.com/in/johndoe</a>
+          Email: <a href="mailto:Choiriatuzzahrae@example.com" class="text-blue-600 hover:underline">Choiriatuzzahra@example.com</a><br>
+          Phone: <a href="tel:+08889854673" class="text-blue-600 hover:underline">+08995848594</a><br>
+          LinkedIn: <a href="https://linkedin.com/in/choiriatuzzahra" target="_blank" class="text-blue-600 hover:underline">linkedin.com/in/zahra</a>
         </p>
       </section>
     </div>
 
     <!-- Footer -->
     <footer class="bg-blue-600 text-white text-center py-4">
-      <p>© 2024 John Doe | All Rights Reserved</p>
+      <p>© 2024 Choiriatuzzahra | All Rights Reserved</p>
     </footer>
   </div>
 </template>
